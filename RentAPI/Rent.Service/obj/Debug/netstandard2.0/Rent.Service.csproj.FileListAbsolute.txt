@@ -1,0 +1,392 @@
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.deps.json
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.pdb
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Model.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Model.pdb
+E:/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csprojAssemblyReference.cache
+E:/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csproj.CoreCompileInputs.cache
+E:/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.AssemblyInfoInputs.cache
+E:/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.AssemblyInfo.cs
+E:/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csproj.CopyComplete
+E:/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.dll
+E:/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.pdb
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Threading.Tasks.Extensions.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.HashCode.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Collections.Immutable.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Diagnostics.DiagnosticSource.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Options.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Memory.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Numerics.Vectors.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Buffers.dll
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.pdb
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.dll.config
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Threading.Tasks.Extensions.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.HashCode.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Collections.Immutable.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Diagnostics.DiagnosticSource.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Options.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Memory.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Numerics.Vectors.xml
+E:/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Buffers.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.deps.json
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.pdb
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Model.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Threading.Tasks.Extensions.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.HashCode.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Collections.Immutable.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Diagnostics.DiagnosticSource.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Options.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Memory.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Numerics.Vectors.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Buffers.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.pdb
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.dll.config
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Model.pdb
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Threading.Tasks.Extensions.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.HashCode.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Collections.Immutable.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Diagnostics.DiagnosticSource.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Options.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Memory.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Numerics.Vectors.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Buffers.xml
+E:/RentManagement/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csprojAssemblyReference.cache
+E:/RentManagement/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csproj.CoreCompileInputs.cache
+E:/RentManagement/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.AssemblyInfoInputs.cache
+E:/RentManagement/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.AssemblyInfo.cs
+E:/RentManagement/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csproj.CopyComplete
+E:/RentManagement/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.dll
+E:/RentManagement/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.pdb
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.deps.json
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Service.pdb
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Model.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Threading.Tasks.Extensions.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.HashCode.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Collections.Immutable.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Diagnostics.DiagnosticSource.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Options.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Memory.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Numerics.Vectors.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Buffers.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.pdb
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Data.dll.config
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Rent.Model.pdb
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Threading.Tasks.Extensions.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Bcl.HashCode.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Collections.Immutable.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Diagnostics.DiagnosticSource.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Logging.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/Microsoft.Extensions.Options.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Memory.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Numerics.Vectors.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/bin/Debug/netstandard2.0/System.Buffers.xml
+E:/NewRent/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csprojAssemblyReference.cache
+E:/NewRent/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.AssemblyInfoInputs.cache
+E:/NewRent/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.AssemblyInfo.cs
+E:/NewRent/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csproj.CoreCompileInputs.cache
+E:/NewRent/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.csproj.CopyComplete
+E:/NewRent/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.dll
+E:/NewRent/Rent/RentAPI/Rent.Service/obj/Debug/netstandard2.0/Rent.Service.pdb
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.deps.json
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.pdb
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.pdb
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll.config
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.pdb
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.xml
+E:\Rent_Application\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csprojAssemblyReference.cache
+E:\Rent_Application\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfoInputs.cache
+E:\Rent_Application\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfo.cs
+E:\Rent_Application\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CoreCompileInputs.cache
+E:\Rent_Application\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CopyComplete
+E:\Rent_Application\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.dll
+E:\Rent_Application\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.pdb
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.deps.json
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.pdb
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.dll
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.pdb
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll.config
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.pdb
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.xml
+E:\Rent\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.xml
+E:\Rent\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csprojAssemblyReference.cache
+E:\Rent\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfoInputs.cache
+E:\Rent\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfo.cs
+E:\Rent\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CoreCompileInputs.cache
+E:\Rent\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CopyComplete
+E:\Rent\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.dll
+E:\Rent\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.pdb
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.deps.json
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.pdb
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.pdb
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll.config
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.pdb
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.xml
+E:\Rent_App\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csprojAssemblyReference.cache
+E:\Rent_App\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfoInputs.cache
+E:\Rent_App\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfo.cs
+E:\Rent_App\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CoreCompileInputs.cache
+E:\Rent_App\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CopyComplete
+E:\Rent_App\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.dll
+E:\Rent_App\Rent\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.pdb
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.deps.json
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.pdb
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.dll
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.pdb
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll.config
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.pdb
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.xml
+E:\test1\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.xml
+E:\test1\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csprojAssemblyReference.cache
+E:\test1\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfoInputs.cache
+E:\test1\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfo.cs
+E:\test1\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CoreCompileInputs.cache
+E:\test1\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CopyComplete
+E:\test1\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.dll
+E:\test1\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.pdb
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.deps.json
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Service.pdb
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.dll
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.pdb
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Data.dll.config
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Rent.Model.pdb
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Bcl.HashCode.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Collections.Immutable.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Diagnostics.DiagnosticSource.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Caching.Memory.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Memory.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Numerics.Vectors.xml
+H:\New folder (3)\RentAPI\Rent.Service\bin\Debug\netstandard2.0\System.Buffers.xml
+H:\New folder (3)\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csprojAssemblyReference.cache
+H:\New folder (3)\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfoInputs.cache
+H:\New folder (3)\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.AssemblyInfo.cs
+H:\New folder (3)\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CoreCompileInputs.cache
+H:\New folder (3)\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.csproj.CopyComplete
+H:\New folder (3)\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.dll
+H:\New folder (3)\RentAPI\Rent.Service\obj\Debug\netstandard2.0\Rent.Service.pdb

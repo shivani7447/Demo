@@ -1,0 +1,100 @@
+<div class="animated fadeIn">
+    <div class="row">
+      <div class="col-sm-12">
+          
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-sm-4">
+      <strong>Tenant</strong> Form
+</div>
+<div  class="col-4 text-center">
+  <img *ngIf="loading" height="20" width="20" src="assets/loader.gif">
+</div>
+<div class="col-sm-4 text-right">
+    <a  routerLink="/tenant"> View Tenants</a>
+</div>
+</div>
+    </div>
+    <form [formGroup]="form" autocomplete="off"  novalidate (ngSubmit)="onSubmit(form.value)">
+    <div class="card-body">
+
+
+        <div *ngIf="isShown" class="form-group">
+            <label>Building</label>
+            <select class="form-control" (change)="buildingchange($event.target.value)"  placeholder="Select Building">
+                <option *ngFor="let item of buildings" [value]="item.id">
+                    {{item.name}}
+                  </option>
+              </select>
+          </div>
+          <div *ngIf="isShown" class="form-group">
+            <label>Room/Flat Number</label>
+            <select class="form-control" (change)="roomchange($event.target.value)"   placeholder="Select Room/Flat"  formControlName="roomId">
+                <option   *ngFor="let item of rooms" [value]="item.id">
+                    {{item.roomNumber}}
+                  </option>
+              </select>
+            <span class="help-block text-danger" *ngIf="validateControl('roomId') && validateControl('roomId') && hasError('roomId','required')">Select room/flat</span>
+          </div>
+
+          <div *ngIf="isShown" class="form-group">
+            <label>Room Price</label>
+            <input formControlName="roomPrice" type="text" class="form-control" placeholder="Enter room price..">
+          </div>
+
+        <div class="form-group">
+          <label>Full Name</label>
+          <input formControlName="fullName" type="text" class="form-control" placeholder="Enter full name..">
+          <span class="help-block text-danger" *ngIf="validateControl('fullName') && validateControl('fullName') && hasError('fullName','required')">Enter full name</span>
+          <span class="help-block text-danger" *ngIf="validateControl('fullName') && validateControl('fullName') && hasError('fullName','maxlength')">Your full name cannot exceed 250 characters</span>
+        </div>
+
+        <div class="form-group">
+            <label>Father Name</label>
+            <input formControlName="fatherName" type="text" class="form-control" placeholder="Enter father name..">
+            <span class="help-block text-danger" *ngIf="validateControl('fatherName') && validateControl('fatherName') && hasError('fullName','required')">Enter father name</span>
+            <span class="help-block text-danger" *ngIf="validateControl('fatherName') && validateControl('fatherName') && hasError('fullName','maxlength')">Your father name cannot exceed 250 characters</span>
+          </div>
+
+        
+        <div class="form-group">
+          <label>Email</label>
+          <input formControlName="email" type="text" class="form-control" placeholder="Enter email..">
+          <span class="help-block text-danger" *ngIf="validateControl('email') && hasError('email','email')">Enter a valid email</span>
+          <span class="help-block text-danger" *ngIf="validateControl('email') && validateControl('email') && hasError('email','maxlength')">Email cannot exceed 150 characters</span>
+        </div>
+
+        <div class="form-group">
+            <label>Phone</label>
+            <input formControlName="phone" type="text" class="form-control" placeholder="Enter phone..">
+            <span class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','required')">You must include a mobile number</span>
+            <span class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','minlength')"> Mobile number must be at least 10 characters long</span>
+            <span class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','maxlength')" > Your Mobile number cannot exceed 10 characters</span>
+          </div>
+
+          <div class="form-group">
+            <label>Adhar</label>
+            <input formControlName="adhar" type="text" class="form-control" placeholder="Enter adhar..">
+            <span class="help-block text-danger" *ngIf="validateControl('adhar') && hasError('adhar','required')">You must include a number</span>
+            <span class="help-block text-danger" *ngIf="validateControl('adhar') && hasError('adhar','minlength')"> Mobile number must be at least 12 characters long</span>
+            <span class="help-block text-danger" *ngIf="validateControl('adhar') && hasError('adhar','maxlength')" > Your Mobile number cannot exceed 12 characters</span>
+          </div>
+
+          <div class="form-group">
+            <label>Pen</label>
+            <input formControlName="pen" type="text" class="form-control" placeholder="Enter pen..">
+          </div>
+          <div class="form-group">
+            <label>Address</label>
+            <input formControlName="address" type="text" class="form-control" placeholder="Enter address..">
+            <span class="help-block text-danger" *ngIf="validateControl('address') && validateControl('address') && hasError('address','required')">Enter address</span>
+            <span class="help-block text-danger" *ngIf="validateControl('address') && validateControl('address') && hasError('address','maxlength')">Your address cannot exceed 1000 characters</span>
+          </div>
+
+    </div>
+    <div class="card-footer">
+      <button type="submit" [disabled]="loading" class="btn btn-sm btn-success"><i class="fa fa-dot-circle-o"></i> Submit</button>
+    </div>
+  </form>
+  </div></div>  </div>  </div>

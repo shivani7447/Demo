@@ -1,0 +1,1050 @@
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+E:\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+E:\RentManagement\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+E:\RentManagement\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+E:\NewRent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+E:\NewRent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+E:\Rent_Application\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent_Application\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+E:\Rent\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+E:\Rent_App\Rent\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+E:\Rent_App\Rent\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RentAPI.styles.css
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+E:\test1\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache
+E:\test1\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ClientApp\package-lock.json
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ClientApp\package-lock.json
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\appsettings.json
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.exe
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.deps.json
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.json
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.runtimeconfig.dev.json
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\RentAPI.pdb
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.dll
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.pdb
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Data.dll.config
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Service.pdb
+H:\New folder (3)\RentAPI\RentAPI\bin\Debug\netcoreapp3.1\Rent.Model.pdb
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csprojAssemblyReference.cache
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfoInputs.cache
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.AssemblyInfo.cs
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CoreCompileInputs.cache
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.Manifest.cache
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\staticwebassets\RentAPI.StaticWebAssets.xml
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\RentAPI.styles.css
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.RazorTargetAssemblyInfo.cache
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.csproj.CopyComplete
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.dll
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.pdb
+H:\New folder (3)\RentAPI\RentAPI\obj\Debug\netcoreapp3.1\RentAPI.genruntimeconfig.cache

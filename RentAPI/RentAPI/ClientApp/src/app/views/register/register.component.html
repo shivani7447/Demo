@@ -1,0 +1,93 @@
+<div class="app-body">
+  <main class="main d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 mx-auto">
+          <div class="card mx-4">
+            <div class="card-body p-4">
+              <form [formGroup]="form" autocomplete="off"  novalidate (ngSubmit)="onSubmit(form.value)">
+                <p class="text-muted">Create your account</p>
+               
+                <div class="controls">
+                <div class="input-group mb-3">
+                  <div class="input-group-prepend">
+                    <span class="input-group-text"><i class="icon-user"></i></span>
+                  </div>
+                  <input formControlName="name" type="text" class="form-control" placeholder="Full Name">
+                </div>
+                <p class="help-block text-danger" *ngIf="validateControl('name') && validateControl('name') && hasError('name','required')">Enter full name</p>
+                <p class="help-block text-danger" *ngIf="validateControl('name') && validateControl('name') && hasError('name','maxlength')">Your name cannot exceed 50 characters</p>
+              </div>
+
+                
+
+
+
+                <div class="controls">
+                  <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text">@</span>
+                    </div>
+                    <input formControlName="email" type="text" class="form-control" placeholder="Email">
+                  </div>
+                  <p class="help-block text-danger" *ngIf="validateControl('email') && hasError('email','email')">Enter a valid email</p>
+                  <p class="help-block text-danger" *ngIf="validateControl('email') && validateControl('email') && hasError('email','maxlength')">Email cannot exceed 150 characters</p>
+                </div>
+
+                <div class="controls">
+                  <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="cui-screen-smartphone"></i></span>
+                    </div>
+                    <input formControlName="phone" type="text"   class="form-control" placeholder="Phone">
+                  </div>
+                  <p class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','required')">You must include a mobile number</p>
+                  <p class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','minlength')"> Mobile number must be at least 10 characters long</p>
+                  <p class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','maxlength')" > Your Mobile number cannot exceed 10 characters</p>
+                </div>
+
+                 
+              
+
+
+                <div class="controls">
+                  <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="icon-lock"></i></span>
+                    </div>
+                    <input formControlName="password" type="password" class="form-control" placeholder="Password">
+                  </div>
+                  <p class="help-block text-danger" *ngIf="validateControl('password') && hasError('password','required')">Enter password</p>
+                </div>
+
+                <div class="controls">
+                  <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="icon-lock"></i></span>
+                    </div>
+                    <input formControlName="confirmPassword" type="password" class="form-control" placeholder="Confirm password">
+                  </div>
+                  <p class="help-block text-danger" *ngIf="validateControl('confirmPassword') && hasError('confirmPassword', 'required')">Enter confirm password</p>
+                </div>
+
+                
+                <button  type="submit" [disabled]="loading" class="btn btn-block btn-success">Create Account</button>
+                <div class="row">
+                  <div class="col-12 text-left">
+                    <a class="btn btn-link px-0" routerLink="/login"> Back to Login</a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div  class="col-12 text-center">
+                    <img  height="20" width="20" *ngIf="loading" src="assets/loader.gif">
+                  </div>
+                </div>
+              </form>
+            </div>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>

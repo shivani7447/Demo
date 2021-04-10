@@ -1,0 +1,49 @@
+<div class="animated fadeIn">
+    <div class="row">
+      <div class="col-sm-12">
+          
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-sm-4">
+      <strong>Profile</strong> Form
+</div>
+<div  class="col-4 text-center">
+  <img *ngIf="loading" height="20" width="20" src="../../../assets/loader.gif">
+</div>
+<div class="col-sm-4 text-right">
+   
+</div>
+</div>
+    </div>
+    <form [formGroup]="form" autocomplete="off"  novalidate (ngSubmit)="onSubmit(form.value)">
+    <div class="card-body">
+        <div class="form-group">
+          <label>Full Name</label>
+          <input formControlName="name" type="text" class="form-control" placeholder="Enter full name..">
+          <span class="help-block text-danger" *ngIf="validateControl('name') && validateControl('name') && hasError('name','required')">Enter full name</span>
+          <span class="help-block text-danger" *ngIf="validateControl('name') && validateControl('name') && hasError('name','maxlength')">Your name cannot exceed 500 characters</span>
+        </div>
+
+        <div class="form-group">
+            <label>Email</label>
+            <input formControlName="email" type="text" class="form-control" placeholder="Enter email..">
+            <span class="help-block text-danger" *ngIf="validateControl('email') && hasError('email','email')">Enter a valid email</span>
+            <span class="help-block text-danger" *ngIf="validateControl('email') && validateControl('email') && hasError('email','maxlength')">Email cannot exceed 150 characters</span>  
+        </div>
+
+        <div class="form-group">
+            <label>Phone</label>
+            <input formControlName="phone" type="text" class="form-control" placeholder="Enter phone..">
+            <span class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','required')">You must include a mobile number</span>
+            <span class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','minlength')"> Mobile number must be at least 10 characters long</span>
+            <span class="help-block text-danger" *ngIf="validateControl('phone') && hasError('phone','maxlength')" > Your Mobile number cannot exceed 10 characters</span>
+        </div>
+      
+   
+    </div>
+    <div class="card-footer">
+      <button type="submit" [disabled]="loading" class="btn btn-sm btn-success"><i class="fa fa-dot-circle-o"></i> Submit</button>
+    </div>
+  </form>
+  </div></div>  </div>  </div>
